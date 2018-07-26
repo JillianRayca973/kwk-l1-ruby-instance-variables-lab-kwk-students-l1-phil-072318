@@ -9,5 +9,3 @@ class Dog
     this_dogs_name
   end
 end
-
-#i'm pretending to write code but Im really tired
